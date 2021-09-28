@@ -21,18 +21,18 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
 
 ## 📚 **List of Projects [.code-blocks.] :**
 .
-## **1. 🤟 ps1.\_\_Hyper-V\_[generate_vm]\_.\_win10**
+## **[.1.] 🤟 ps1.\_\_Hyper-V\_[generate_vm]\_.\_win10**
 
 ✔️ Folder Description \__
 :_: Running this one should get you Virtual Machine Created in Windows 10 using the Hyper-V Manager to achieve it.  
 .
 
  .  
- ## **-([> - Files List.\_\_>>>------->->->-**
+ ## **-<([> - Files List.\_\_>>>------->->->-**
 
  .
 
-### **[ 1. ]** NAME :   **Hyper-V\_\_CreateVM.sh . . . ⧐**    
+### **<.1.>** NAME :   **Hyper-V\_\_CreateVM.sh . . . ⧐**    
  |-o> 🔄 - Language  : :  **Bash Script** ]:> - >  -  -      
  |   
  |-o> 📜  **File Description  :.:.:**  That is there to trigger the actual PowerShell script that will do the magic...[next item >> ]...     
@@ -51,14 +51,14 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
 #### :      
 #### 𝛁   
 #### :    
-## **[ 2. ] 🤟 ps1.\_\_Toaster-2.0\_[better_notifications]\_.\_win10**
+## **[.2.] 🤟 ps1.\_\_Toaster-2.0\_[better_notifications]\_.\_win10**
 
 ✔️ Folder Description \__
 :_:  This PowerShell Script Provides quite nice and extendable way to work with notifications. Provides way to work with Icons, Images, Title, Subtitle, Buttons, "Force User Response"....etc....
 
 . . . . . . . .
 |    
-## **+-([> - Files List.\_\_>>>------->->->-**   
+ ## **-<([> - Files List.\_\_>>>------->->->-**
 |    
 ### **<.1.>** NAME :   **NEW\_TOAST\_restart.sh . . . ⧐**    
  |-o> 🔄 - Language  : :  **Bash** ]:> - >  -  -      
