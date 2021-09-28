@@ -24,14 +24,10 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
 ## **[.1.] 🤟 ps1.\_\_Hyper-V\_[generate_vm]\_.\_win10**
 
 ✔️ Folder Description \__
-:_: Running this one should get you Virtual Machine Created in Windows 10 using the Hyper-V Manager to achieve it.  
-.
-
- .  
- ## **-<([> - Files List.\_\_>>>------->->->-**
-
- .
-
+:_: Running this one should get you Virtual Machine Created in Windows 10 using the Hyper-V Manager to achieve it.       
+ |       
+ ### +**-<([> - Files List.\_\_>>>------->->->-**
+ |  
 ### **<.1.>** NAME :   **Hyper-V\_\_CreateVM.sh . . . ⧐**    
  |-o> 🔄 - Language  : :  **Bash Script** ]:> - >  -  -      
  |   
@@ -56,14 +52,14 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
 ✔️ Folder Description \__
 :_:  This PowerShell Script Provides quite nice and extendable way to work with notifications. Provides way to work with Icons, Images, Title, Subtitle, Buttons, "Force User Response"....etc....
 
-. . . . . . . .
+. . . . . . . .      
 |    
- ## **-<([> - Files List.\_\_>>>------->->->-**
+ ### **+-<([> - Files List.\_\_>>>------->->->-**
 |    
 ### **<.1.>** NAME :   **NEW\_TOAST\_restart.sh . . . ⧐**    
  |-o> 🔄 - Language  : :  **Bash** ]:> - >  -  -      
- |   
- |-o> 📜  **File Description  :.:.:**  That is there to trigger the actual PowerShell script that will do the magic...[next item >> ]... **<+same-here+>**   
+ |         
+ |-o> 📜  **File Description  :.:.:**  That is there to trigger the actual PowerShell script that will do the magic...[next item >> ]... **<+same-here+>**         
  |    
 ###  **<.2.>** NAME :   **New-ToastNotification.ps1 . . . ⧐**    
   |-o> 🔄 - Language  : :  **PowerShell** ]:> - >  -  -      
@@ -74,7 +70,7 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
  |-o> 🔄 - Language  : :  **NULL** || **NaN** ]:> - >  -  -      
  |     
  |-o> 📜  **File Description  :.:.:**  This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.** 
-|
+|      
 𝛁 - - - - - - - - - - - - - - - - - - - - - - - - - - ****-<[-v-]>-**** - - -      
  |     
 
