@@ -29,17 +29,17 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
  ### +**-<([> - Files List.\_\_>>>------->->->-**
  |  
 ### **<.1.>** NAME :   **Hyper-V\_\_CreateVM.sh . . . ⧐**    
- |-o> 🔄 - Language  : :  **Bash Script** ]:> - >  -  -      
+ |-o> 🔄 - Language  : :  [  **Bash Script** ]:> - >  -  -      
  |   
  |-o> 📜  **File Description  :.:.:**  That is there to trigger the actual PowerShell script that will do the magic...[next item >> ]...     
  |    
 ###  **<.2.>** NAME :   **Hyper-V\_\_CreateVM.ps1 . . . ⧐**    
- |-o> 🔄 - Language  : :  **PowerShell** ]:> - >  -  -      
+ |-o> 🔄 - Language  : :  [  **PowerShell** ]:> - >  -  -      
  |   
  |-o> 📜  **File Description  :.:.:**  This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.    
  |    
  ####  **<.3.>** NAME :   **FAKE_WINDOWS_10.ISO . . . ⧐**    
- |-o> 🔄 - Language  : :   **NULL** || **NaN** ]:> - >  -  -      
+ |-o> 🔄 - Language  : :  [   **NULL** || **NaN** ]:> - >  -  -      
  |   
  |-o> 📜  **File Description : : . . .**    This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.    
 ### :    
@@ -55,17 +55,17 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
  ### **+-<([> - Files List.\_\_>>>------->->->-**
 |    
 ### **<.1.>** NAME :   **NEW\_TOAST\_restart.sh . . . ⧐**    
- |-o> 🔄 - Language  : :  **Bash** ]:> - >  -  -      
+ |-o> 🔄 - Language  : :  [  **Bash** ]:> - >  -  -      
  |         
  |-o> 📜  **File Description  :.:.:**  That is there to trigger the actual PowerShell script that will do the magic...[next item >> ]... **<+same-here+>**         
  |    
 ###  **<.2.>** NAME :   **New-ToastNotification.ps1 . . . ⧐**    
-  |-o> 🔄 - Language  : :  **PowerShell** ]:> - >  -  -      
+  |-o> 🔄 - Language  : :  [  **PowerShell** ]:> - >  -  -      
  |   
  |-o> 📜  **File Description  :.:.:**  This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.    
  |    
 ### **<.3.>** NAME :   **FAKE_WINDOWS_10.ISO . . . ⧐**    
- |-o> 🔄 - Language  : :  **NULL** || **NaN** ]:> - >  -  -      
+ |-o> 🔄 - Language  : :  [  **NULL** || **NaN** ]:> - >  -  -      
  |     
  |-o> 📜  **File Description  :.:.:**  This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.**   
 ### :    
