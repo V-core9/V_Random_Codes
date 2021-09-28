@@ -42,11 +42,9 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
  |-o> 🔄 - Language  : :   **NULL** || **NaN** ]:> - >  -  -      
  |   
  |-o> 📜  **File Description : : . . .**    This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.    
-:
- ### 𝛁 - - - - - - - - - - - - - - - - - - - - - - - - - - **-<[-v-]>-** - - -
+### :    
+### 𝛁 - - - - - - - - - - - - - - - - - - - - - - - - - - **-<[-v-]>-** - - -
 #### :      
-#### 𝛁   
-#### :    
 ## **[.2.] 🤟 ps1.\_\_Toaster-2.0\_[better_notifications]\_.\_win10**
 
 ✔️ Folder Description \__
@@ -69,10 +67,10 @@ Well this is just a "Fallback" repo...cuz most of Research and Development is ab
 ### **<.3.>** NAME :   **FAKE_WINDOWS_10.ISO . . . ⧐**    
  |-o> 🔄 - Language  : :  **NULL** || **NaN** ]:> - >  -  -      
  |     
- |-o> 📜  **File Description  :.:.:**  This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.** 
-|      
-𝛁 - - - - - - - - - - - - - - - - - - - - - - - - - - ****-<[-v-]>-**** - - -      
- |     
+ |-o> 📜  **File Description  :.:.:**  This is just a spaceholder for the System ISO Image. Replace it with actuall OS image and trigger install/generation of VM.**   
+### :    
+### 𝛁 - - - - - - - - - - - - - - - - - - - - - - - - - - **-<[-v-]>-** - - -
+#### :      
 
   ---      
    
